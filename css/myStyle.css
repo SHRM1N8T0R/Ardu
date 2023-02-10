@@ -31,6 +31,13 @@ h3{
     position: relative;
     right: 2%;
 }
+ .btn-lg{
+        margin-top:3%;
+       position: relative;
+    right:45%;
+    margin-bottom:10%
+    
+    }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .btn-lg{
@@ -74,13 +81,7 @@ h3{
     .col-lg-3{padding-bottom: 30px;
     height:450px;
     }
-    .btn-lg{
-        margin-top:3%;
-       position: relative;
-    right:43%;
-    margin-bottom:10%
-    
-    }
+  
     
 .Text1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -94,13 +95,7 @@ padding-top:3%;
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-    .btn-lg{
-        margin-top:3%;
-       position: relative;
-    right:43%;
-    margin-bottom:10%
-    
-    }
+   
 
     .Text1{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
