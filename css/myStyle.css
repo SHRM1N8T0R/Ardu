@@ -1,0 +1,105 @@
+﻿body {
+    direction: rtl;
+    background-color:floralwhite;
+    overflow-x: hidden;
+
+ 
+}
+
+
+header{
+    background-image: url('../images/harrison-broadbent-WL_st8FVyEc-unsplash.jpg');
+    height: 25em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 80%;
+    max-width: 100%;
+
+
+}
+
+img {
+    width: 100px;
+    object-fit:initial;
+  }
+
+
+
+.Text1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    right:18%;
+font-weight: 500;
+padding-top:3%;
+
+}
+
+h3{
+    position: relative;
+    right: 2%;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .btn-lg{
+        margin-top:5%;
+       position: relative;
+    right:6%;
+    margin-bottom:10%;
+    width: 85%;
+    
+    }
+    img {
+        width: 100px;
+        object-fit:initial;
+      }
+      .Text1{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+        right:2%;
+    font-weight: 500;
+    padding-top:3%;
+    
+    }
+  
+     
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+ 
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+   
+   
+ 
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .col-lg-3{padding-bottom: 30px;
+    height:450px;
+    }
+    .btn-lg{
+        margin-top:3%;
+       position: relative;
+    right:43%;
+    margin-bottom:10%
+    
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .btn-lg{
+        margin-top:3%;
+       position: relative;
+    right:43%;
+    margin-bottom:10%
+    
+    }
+
+}
+
