@@ -61,7 +61,17 @@ h3{
     
     }
   
-     
+     .btn-close{
+        position: relative;
+        left: 4%;
+     }
+     .offcanvas-header{
+        background-color: #e3f2fd;
+     }
+     .offcanvas-body{
+        background-color: #e3f2fd;
+
+     }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
