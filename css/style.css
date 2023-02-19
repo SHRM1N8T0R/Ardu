@@ -41,7 +41,13 @@ img {
       width:100%;
       margin-top:10px;
   }
+  .offcanvas-header{
+    background-color: #e3f2fd;
+ }
+ .offcanvas-body{
+    background-color: #e3f2fd;
 
+ }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
